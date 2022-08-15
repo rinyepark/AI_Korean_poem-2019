@@ -23,4 +23,4 @@
  2) LSTM을 이용해 1)에서 전처리한 데이터를 이용해 모델 구축    
  3) 학습을 통해 완성된 모델을 이용해 특정 단어를 input으로 입력하면 output으로 시 데이터 생성
  
- <img src="https://user-images.githubusercontent.com/109687076/184579726-41eb9ba4-1fb7-48f4-a3dc-c04a77ddfb11.JPG" width="70%">
+ <img src="https://user-images.githubusercontent.com/109687076/184579726-41eb9ba4-1fb7-48f4-a3dc-c04a77ddfb11.JPG" width="50%">
