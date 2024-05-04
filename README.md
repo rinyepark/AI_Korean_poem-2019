@@ -1,7 +1,5 @@
 # 시 짓는 인공지능(AI Korean Poem)
 
-<img src="https://user-images.githubusercontent.com/109687076/184579618-57b8e05c-b45f-4633-88b3-6d2b1431719c.JPG" width="60%">
-
 ## 1. Duration
 - 2019.03 ~ 2019.06
 
